@@ -13,6 +13,7 @@ BuildRequires:  quazip-qt6-devel
 BuildRequires:  SDL2-devel
 BuildRequires:  patchelf
 BuildRequires:  sed
+Requires:       mupen64plus
 
 %description
 Mupen64Plus-Qt is a customizable launcher for the mupen64plus-ui-console
