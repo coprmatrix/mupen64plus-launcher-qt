@@ -2,7 +2,7 @@
 
 Name:           %{_name}
 Version:        1.17
-Release:        0
+Release:        1%{?autorelease}
 Summary:        A customizable launcher for Mupen64Plus
 Group:          Applications/Emulators
 License:        BSD
